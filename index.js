@@ -8,4 +8,4 @@ if (true) {
     let msg1 = 2;
 }
 console.log(message); 
-console.log(msg1);
+console.log(msg1); 
